@@ -96,3 +96,16 @@ div#textbox {
     margin-bottom: 10px;
     border-radius: 4px;
 }
+
+#home {
+  padding: 2px 5px 4px;
+  position: fixed;
+  bottom: 7px;
+  left: 10px;
+  font-size: 18px;
+  text-decoration: none;
+}
+
+#home:hover {
+  text-decoration: underline;
+}
